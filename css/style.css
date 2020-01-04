@@ -3,3 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(230, 111, 111);
 }
+
+#container{
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #000;
+    text-align: left;
+    padding: 1rem;
+}
